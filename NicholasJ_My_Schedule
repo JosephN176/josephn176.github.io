@@ -1,0 +1,92 @@
+<html>
+<! When pasting into w3 schools the code gets reformated to fit, and it messses up the code>
+<head>
+	<title>My schedule</title>
+</head>
+     <body>
+	     <h2>My Schedule</h2>
+	     <br>
+	<table>
+	  	<tr>
+    			<td> M </td>
+   		 	<td> T </td>
+   	 		<td> W </td>
+   	 		<td> Th </td>
+   			 <td> F </td>
+		 </tr>
+<hr>
+	
+ 	 		<tr>
+  				<td> Fresh. adv. </td>
+    				<td> CRMYA </td>
+    				<td> Fresh. adv. </td>
+    				<td> CRMYA </td>
+    				<td> Fresh. Adv.</td>
+    
+    			</tr>
+		
+				<tr>
+					<td> HTML </td>
+    					<td> HTML </td>
+    					<td> HTML </td>
+    					<td> HTML </td>
+    					<td> HTML </td>
+				</tr>
+					<tr>
+                				<td>PE</td>
+                  				<td>Civic</td>
+                    				<td>PE</td>
+                    				<td>civic</td>
+                   				<td>PE</td>
+                
+                
+           				</tr>
+                				<tr>
+                    					<td> Global</td>
+                        				<td> Global</td>
+                					<td> Global</td>
+                        				<td> Global</td>
+                        				<td> Global</td>
+                    
+                    				</tr>
+                    					<tr>
+                        					<td>Geometry</td>
+                           			 		<td>Geometry</td>
+                           	 				<td>Geometry</td>
+                            					<td>Geometry</td>
+                            					<td>Geometry</td>
+                      			 		 </tr>
+                        					<tr>
+                            						<td> Lunch </td>
+                            						<td> Lunch </td>
+                            						<td> Lunch </td>
+                            						<td> Lunch </td>
+                           	 					<td> Lunch </td>
+                            					</tr>
+                            						<tr>
+                                						<td>bio</td>
+                                						<td>bio</td>
+                                						<td>bio</td>
+                                						<td>bio</td>
+                                						<td>bio</td>
+                                
+                                
+                                					</tr>
+                                						<tr>
+                                    
+                                							<td>english</td>
+                                    							<td>english</td>
+                                    							<td>english</td>
+                                    							<td>english</td>
+                                    							<td>english</td>
+                                    
+                                   						 </tr>
+		
+
+
+
+
+  
+	</table>
+     </body>
+</html>
