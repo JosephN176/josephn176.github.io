@@ -7,16 +7,19 @@
 	     <h2>My Schedule</h2>
 	     <br>
 	<table>
-	  	<tr>
-    			<td> M </td>
-   		 	<td> T </td>
-   	 		<td> W </td>
-   	 		<td> Th </td>
-   			 <td> F </td>
-		 </tr>
+	  	<th>
+			<b>
+    				<td> M </td>
+   		 		<td> T </td>
+   	 			<td> W </td>
+   	 			<td> Th </td>
+   				 <td> F </td>
+			</b>
+		 </th>
 <hr>
 	
  	 		<tr>
+				<td>1</td>
   				<td> Fresh. adv. </td>
     				<td> CRMYA </td>
     				<td> Fresh. adv. </td>
@@ -26,6 +29,7 @@
     			</tr>
 		
 				<tr>
+					<td>2</td>
 					<td> HTML </td>
     					<td> HTML </td>
     					<td> HTML </td>
@@ -33,6 +37,7 @@
     					<td> HTML </td>
 				</tr>
 					<tr>
+						<td>3</td>
                 				<td>PE</td>
                   				<td>Civic</td>
                     				<td>PE</td>
@@ -42,6 +47,7 @@
                 
            				</tr>
                 				<tr>
+							<td>4</td>
                     					<td> Global</td>
                         				<td> Global</td>
                 					<td> Global</td>
@@ -50,6 +56,7 @@
                     
                     				</tr>
                     					<tr>
+								<td>5</td>
                         					<td>Geometry</td>
                            			 		<td>Geometry</td>
                            	 				<td>Geometry</td>
@@ -57,23 +64,22 @@
                             					<td>Geometry</td>
                       			 		 </tr>
                         					<tr>
-                            						<td> Lunch </td>
-                            						<td> Lunch </td>
-                            						<td> Lunch </td>
-                            						<td> Lunch </td>
-                           	 					<td> Lunch </td>
+									<td> 6 </td>
+                            						<td colspan = "5"> Lunch </td>
+                            						
                             					</tr>
                             						<tr>
+										<td>7</td>
+                                						<td>Bio</td>
+                                						<td>Bio</td>
                                 						<td>bio</td>
-                                						<td>bio</td>
-                                						<td>bio</td>
-                                						<td>bio</td>
-                                						<td>bio</td>
+                                						<td>Bio</td>
+                                						<td>Bio</td>
                                 
                                 
                                 					</tr>
                                 						<tr>
-                                    
+                                    							<td>8</td>
                                 							<td>english</td>
                                     							<td>english</td>
                                     							<td>english</td>
