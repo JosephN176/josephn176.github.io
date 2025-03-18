@@ -1,8 +1,25 @@
 <html>
 <! When pasting into w3 schools the code gets reformated to fit, and it messses up the code>
+
 <head>
 	<title>My schedule</title>
+   <style>
+  table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  text-align: center;
+}
+</style> 
 </head>
+
+
      <body>
 	     <h2>My Schedule</h2>
 	     <br>
