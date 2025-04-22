@@ -1,20 +1,19 @@
 * {
   box-sizing: border-box;
 }
-* .header {
+.header {
   text-align: center;
   font: helvetica;
   background-color: blue;
   font-size:12px
 }
-* .header2 {
+.header2 {
   text-align: left;
   font:helvetica;
   background-color: grey;
   font-size:20px
 }
-
-* .main{
+.main{
    text-align: left;
   font:helvetica;
   background-color: grey;
