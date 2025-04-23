@@ -19,6 +19,15 @@
   background-color: grey;
   font-size:20px
 } 
+li {
+  float:left;
+}
+
+a {
+  display: block;
+  padding:8px;
+  background-color: grey
+}
 
 
 
