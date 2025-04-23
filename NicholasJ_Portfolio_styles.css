@@ -3,21 +3,21 @@
 }
 .header {
   text-align: center;
-  font: helvetica;
+  font-family: helvetica;
   background-color: blue;
-  font-size:12px
+  font-size:12px;
 }
 .header2 {
   text-align: left;
   font:helvetica;
   background-color: grey;
-  font-size:20px
+  font-size:20px;
 }
 .main{
    text-align: left;
   font:helvetica;
   background-color: grey;
-  font-size:20px
+  font-size:20px;
 } 
 .navbar li {
   float:left;
@@ -27,6 +27,10 @@
   display: block;
   padding:8px;
   background-color: grey
+}
+.navbar a:hover {
+  text-align:center;
+
 }
 
 
