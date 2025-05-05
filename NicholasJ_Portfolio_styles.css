@@ -1,37 +1,34 @@
 * {
   box-sizing: border-box;
 }
-* .header {
+.header {
   text-align: center;
   font-family: helvetica;
   background-color: blue;
   font-size:12px;
 }
-* .header2 {
+.header2 {
   text-align: left;
   font:helvetica;
   background-color: grey;
   font-size:20px;
 }
-* .main{
+.main{
    text-align: left;
   font:helvetica;
   background-color: grey;
   font-size:20px;
 } 
-.navbar li {
+.navbar {
   float:left;
+  font-family:helvetica;
+  overflow:hidden;
+  verticak-align:center;
+  background-color:grey;
+  
 }
 
-* .navbar a {
-  display: block;
-  padding:8px;
-  background-color: grey
-}
-* .navbar a:hover {
-  text-align:center;
 
-}
 h3 , p {
   text-align: left;
   font:helvetica;
