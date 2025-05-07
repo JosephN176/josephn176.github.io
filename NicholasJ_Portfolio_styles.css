@@ -4,13 +4,13 @@
 .header {
   text-align: center;
   font-family: helvetica;
-  background-color: blue;
+  
   font-size:12px;
 }
 .header2 {
   text-align: left;
   font:helvetica;
-  background-color: grey;
+  
   font-size:20px;
 }
 .main{
@@ -24,7 +24,7 @@
   font-family:helvetica;
   overflow:hidden;
   vertical-align:center;
-  background-color:grey;
+ 
   
   
 }
